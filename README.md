@@ -1,0 +1,2 @@
+# TextRedactor
+TextRedactor_WindowsForms
